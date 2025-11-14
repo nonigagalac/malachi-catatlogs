@@ -49,7 +49,7 @@
 7. Implement WhatsApp or live chat integration for customer support
 
 ## URLs
-- **Production**: Not yet deployed (ready for Cloudflare Pages)
+- **Production**: https://b3a1d91f.malachi-catalog.pages.dev
 - **Sandbox Preview**: https://3000-ixl425t7u37o21ajy4xvz-b32ec7bb.sandbox.novita.ai
 - **Local Development**: http://localhost:3000
 - **GitHub**: https://github.com/nonigagalac/malachi-catatlogs
@@ -128,8 +128,9 @@ webapp/
 
 ## Deployment Status
 - **Platform**: Cloudflare Pages
-- **Status**: ❌ Not yet deployed (ready for deployment)
-- **Last Updated**: 2024-11-14
+- **Status**: ✅ Active
+- **Project Name**: malachi-catalog
+- **Last Deployed**: 2024-11-14
 
 ## License
 Copyright © 2024 Malachi Stitch and Print. All rights reserved.
