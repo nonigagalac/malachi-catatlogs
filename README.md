@@ -49,9 +49,10 @@
 7. Implement WhatsApp or live chat integration for customer support
 
 ## URLs
-- **Production**: Not yet deployed
+- **Production**: Not yet deployed (ready for Cloudflare Pages)
+- **Sandbox Preview**: https://3000-ixl425t7u37o21ajy4xvz-b32ec7bb.sandbox.novita.ai
 - **Local Development**: http://localhost:3000
-- **GitHub**: Will be set up
+- **GitHub**: https://github.com/nonigagalac/malachi-catatlogs
 
 ## Data Architecture
 - **Data Models**: Currently using static product data in TypeScript
